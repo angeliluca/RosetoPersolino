@@ -5,6 +5,8 @@
 *
 *
 *  Ciao Ila, riesci a leggere? Lo Zecchino d'oro è brutto.
+*  Ciao Giulia, Laura Pausini non è un gran che.
+*  Ciao Ale, ti saluta Lara.
 *  Commento in xml <!-- -->
 * */
 
@@ -21,5 +23,5 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
-    //ciaoi
+
 }
