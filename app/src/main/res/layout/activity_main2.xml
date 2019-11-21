@@ -25,16 +25,6 @@
         android:textStyle="bold"/>
 
 
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-
-        android:layout_gravity="center"
-        android:layout_marginLeft="@android:dimen/app_icon_size"
-        android:layout_marginRight="@android:dimen/app_icon_size"
-        android:background="@color/colorAccent"
-        android:onClick="visita"
-        android:text="@string/button_start" />
     <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -63,4 +53,15 @@
             android:layout_marginTop="@android:dimen/app_icon_size"
             android:background="@drawable/spainflag" />
     </LinearLayout>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_gravity="center"
+        android:layout_marginTop="@android:dimen/app_icon_size"
+        android:layout_marginLeft="@android:dimen/app_icon_size"
+        android:layout_marginRight="@android:dimen/app_icon_size"
+        android:background="@color/colorAccent"
+        android:onClick="visita"
+        android:text="@string/button_start" />
 </LinearLayout>
