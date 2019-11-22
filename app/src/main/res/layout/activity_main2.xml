@@ -28,28 +28,36 @@
     <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:orientation="horizontal">
+        android:orientation="horizontal"
+        android:layout_gravity="center">
+
+        <Button
+            android:layout_width="50dp"
+            android:layout_height="30dp"
+            android:layout_marginTop="@android:dimen/app_icon_size"
+            android:background="@drawable/italianflag" />
+
         <Button
             android:id="@+id/english_flag"
-            android:layout_width="15mm"
-            android:layout_height="10mm"
+            android:layout_width="50dp"
+            android:layout_height="30dp"
             android:layout_marginTop="@android:dimen/app_icon_size"
             android:background="@drawable/englishflag"/>
 
         <Button
-            android:layout_width="15mm"
-            android:layout_height="10mm"
+            android:layout_width="50dp"
+            android:layout_height="30dp"
             android:layout_marginTop="@android:dimen/app_icon_size"
             android:background="@drawable/frenchflag" />
         <Button
-            android:layout_width="15mm"
-            android:layout_height="10mm"
+            android:layout_width="50dp"
+            android:layout_height="30dp"
             android:layout_marginTop="@android:dimen/app_icon_size"
             android:background="@drawable/germanyflag" />
 
         <Button
-            android:layout_width="15mm"
-            android:layout_height="10mm"
+            android:layout_width="50dp"
+            android:layout_height="30dp"
             android:layout_marginTop="@android:dimen/app_icon_size"
             android:background="@drawable/spainflag" />
     </LinearLayout>
