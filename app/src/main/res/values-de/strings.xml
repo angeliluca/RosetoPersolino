@@ -4,4 +4,8 @@
     <string name="text_message">Roseto del Persolino</string>
     <string name="welcome_message">Willkommen</string>
     <string name="button_start">Beginnen Sie Ihren Besuch</string>
+    <string name="button_visitor">Besucher</string>
+    <string name="button_technical">Technich</string>
+    <string name="map">Karte des rosengartens</string>
+    <string name="button_exit">Wenn sie lhren besuch beendet haben klicken sie hier</string>
 </resources>

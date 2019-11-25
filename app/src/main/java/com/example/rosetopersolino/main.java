@@ -13,8 +13,8 @@ public class main extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main2);
     }
-}
+
     public void visita(View view) {
         Intent intent = new Intent(this, Visita.class);
         startActivity(intent);
-    }
+    } }

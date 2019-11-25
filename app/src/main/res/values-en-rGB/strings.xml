@@ -4,4 +4,8 @@
     <string name="text_message">Roseto del Persolino</string>
     <string name="welcome_message">Welcome</string>
     <string name="button_start">Start your visit</string>
+    <string name="button_visitor">Visitor</string>
+    <string name="button_technical">Tecnical</string>
+    <string name="map">Map of the rose garden</string>
+    <string name="button_exit"> If you have finished your visit click here</string>
 </resources>

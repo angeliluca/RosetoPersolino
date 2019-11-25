@@ -4,4 +4,9 @@
     <string name="text_message">Roseto del Persolino</string>
     <string name="welcome_message">Benvenuti</string>
     <string name="button_start">Inizia la tua Visita</string>
+    <string name="button_visitor">Visitatore</string>
+    <string name="button_technical">Tecnico</string>
+    <string name="map">Cartina del roseto</string>
+    <string name="button_exit">Se hai finito la tua visita clicca qui</string>
+
 </resources>

@@ -42,24 +42,28 @@
             android:layout_width="50dp"
             android:layout_height="30dp"
             android:layout_marginTop="@android:dimen/app_icon_size"
-            android:background="@drawable/englishflag"/>
+            android:background="@drawable/englishflag"
+            android:onClick="visita"/>
 
         <Button
             android:layout_width="50dp"
             android:layout_height="30dp"
             android:layout_marginTop="@android:dimen/app_icon_size"
-            android:background="@drawable/frenchflag" />
+            android:background="@drawable/frenchflag"
+            android:onClick="visita"/>
         <Button
             android:layout_width="50dp"
             android:layout_height="30dp"
             android:layout_marginTop="@android:dimen/app_icon_size"
-            android:background="@drawable/germanyflag" />
+            android:background="@drawable/germanyflag"
+            android:onClick="visita"/>
 
         <Button
             android:layout_width="50dp"
             android:layout_height="30dp"
             android:layout_marginTop="@android:dimen/app_icon_size"
-            android:background="@drawable/spainflag" />
+            android:background="@drawable/spainflag"
+            android:onClick="visita"/>
     </LinearLayout>
     <Button
         android:layout_width="match_parent"
