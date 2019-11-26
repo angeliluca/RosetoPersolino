@@ -19,4 +19,4 @@ public class Visita extends AppCompatActivity {
         Intent intent = new Intent(this, mappa.class);
         startActivity(intent);
     }
-}
+} ////CIAO

@@ -18,4 +18,3 @@ public class main extends AppCompatActivity {
         Intent intent = new Intent(this, Visita.class);
         startActivity(intent);
     } }
-    ///CIAO
